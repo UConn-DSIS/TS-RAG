@@ -1,0 +1,6 @@
+__pycache__/
+datasets/
+wandb/
+results/
+checkpoints/
+retrieval_database/
