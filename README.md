@@ -92,3 +92,35 @@ booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discover
 series = {KDD '25}
 }
 ```
+
+2. [Explainable multi-modal time series prediction with llm-in-the-loop](https://arxiv.org/abs/2503.01013), in NeurIPS 2025
+
+> Authors: Yushan Jiang, Wenchao Yu, Geon Lee, Dongjin Song, Kijung Shin, Wei Cheng, Yanchi Liu, Haifeng Chen
+
+```bibtex
+@misc{jiang2025explainablemultimodaltimeseries,
+      title={Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop}, 
+      author={Yushan Jiang and Wenchao Yu and Geon Lee and Dongjin Song and Kijung Shin and Wei Cheng and Yanchi Liu and Haifeng Chen},
+      year={2025},
+      eprint={2503.01013},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2503.01013}, 
+}
+```
+
+3. [Harnessing Vision Models for Time Series Analysis: A Survey](https://arxiv.org/abs/2502.08869), in IJCAI 2025
+
+> Authors: Jingchao Ni, Ziming Zhao, ChengAo Shen, Hanghang Tong, Dongjin Song, Wei Cheng, Dongsheng Luo, Haifeng Chen
+
+```bibtex
+@misc{ni2025harnessingvisionmodelstime,
+      title={Harnessing Vision Models for Time Series Analysis: A Survey}, 
+      author={Jingchao Ni and Ziming Zhao and ChengAo Shen and Hanghang Tong and Dongjin Song and Wei Cheng and Dongsheng Luo and Haifeng Chen},
+      year={2025},
+      eprint={2502.08869},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2502.08869}, 
+}
+```
