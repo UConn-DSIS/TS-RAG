@@ -1,4 +1,4 @@
-# TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster
+# (NeurIPS 2025)TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster
 
 This is the official repository for "TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster". [Paper](https://arxiv.org/abs/2503.07649)
 
