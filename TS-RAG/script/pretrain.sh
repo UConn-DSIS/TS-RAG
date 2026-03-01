@@ -4,13 +4,13 @@ run_file=pretrain.py
 top_k=10
 retrieve_lookback_length=512
 retrieval_database_path=../retrieval_database/pretrain/retrieval_database_${retrieve_lookback_length}.parquet
-augment_mode=moe2
+augment_mode=moe
 context_length=512
 prediction_length=64
 
 # pretrain
 data_path=../datasets/pretrain/pretrain_pairs_ctx${retrieve_lookback_length}
-train_steps=20000
+train_steps=10000
 evaluation_steps=10000
 optimizer=adamw
 lr=0.00003
