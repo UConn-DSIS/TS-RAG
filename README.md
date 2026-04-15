@@ -49,7 +49,7 @@ The proposed TS-RAG consists of three key components, i.e., a time series founda
 
 ## Data & Model Download
 
-You can download our preprocessed datasets and pretrained models from [Google Drive](https://drive.google.com/drive/folders/12wesXfVwFhdrUY5Kv8yuAWWqN9M77irw?usp=sharing) and [Huggingface](https://huggingface.co/nkh/TS-RAG-Data):
+You can download our preprocessed datasets and pretrained models from [Google Drive](https://drive.google.com/drive/folders/12wesXfVwFhdrUY5Kv8yuAWWqN9M77irw?usp=sharing) and [Huggingface](https://huggingface.co/datasets/nkh/TS-RAG-Data):
 
 ## File Structure
 After downloading the datasets and code, your file structure should look like this:
